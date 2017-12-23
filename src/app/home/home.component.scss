@@ -3,7 +3,7 @@
     grid-template-columns: 50% auto;
 }
 .col {
-    padding: 4em 1.3em;
+    padding: .4em 1.3em;
 }
 .color-dark {
     background: #2885C4;
@@ -11,7 +11,9 @@
 .color-light {
     background: #57B3F1;
 }
-
+.sm {
+    padding-left: 1em;
+}
 input.txt {
     border: 0;
     padding: 1em;
